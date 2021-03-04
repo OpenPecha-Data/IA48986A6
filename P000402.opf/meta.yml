@@ -1,16 +1,17 @@
-id: opecha:P000402
+id: P000402
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W28799
   title: དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་དགོངས་པའི་དོན་གསལ་བར་བྱེད་པའི་མེ་ལོང་།
-  volume:
+  author: ''
+  volumes:
     c1d56878bc294554858bf6881b43a1cf:
       image_group_id: I1KG18157
       title: Volume 1 of drang nges rnam 'byed kyi dgongs pa'i don gsal bar byed pa'i
         me long /
       volume_number: 1
       total_pages: 436
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དྲང་ངེས་རྣམ་འབྱེད་ཀྱི་དགོངས་པའི་དོན་གསལ་བར་བྱེད་པའི་མེ་ལོང་།
   author: ''
